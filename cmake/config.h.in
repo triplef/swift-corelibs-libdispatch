@@ -134,7 +134,7 @@
 #cmakedefine01 HAVE_NORETURN_BUILTIN_TRAP
 
 /* Define if you have the Objective-C runtime */
-#cmakedefine HAVE_OBJC
+#cmakedefine01 HAVE_OBJC
 
 /* Define to 1 if you have the `posix_fadvise' function. */
 #cmakedefine HAVE_POSIX_FADVISE
